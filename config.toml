@@ -1,0 +1,17 @@
+baseURL = "https://kdzkustoms.com/"
+languageCode = "en-us"
+title = "KDZ Motorcycle Sales and Service"
+theme = "ampradix"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Motorycycle sales, service and parts located in Auburn, Indiana. Want to buy a cycle? Sell a cycle? Service a cycle or get parts? We can help."
+  facebook = "https://www.facebook.com/kdzmotorcycles/"
+  twitter = "https://twitter.com/KDZMotorcycles"
+  instagram = "https://www.instagram.com/kdzkustoms/"
+  Featured_Image = ''
