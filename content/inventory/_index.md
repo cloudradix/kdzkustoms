@@ -1,8 +1,8 @@
 ---
 title: "Motorcycle Inventory by KDZ Motorcycle & Sales"
-date: 2019-03-18T16:18:00-04:00
+date: 2019-03-23T09:36:24-04:00
 draft: false
-Description: "KDZ Motorcycle Sales inventory page provides our latest selection of pre-owned motorcycles located in our Auburn, Indiana showroom. Shipping assistance is available for out of state buyers.  "
+Description: "KDZ Motorcycle Sales inventory page provides our latest selection of pre-owned motorcycles located in our Auburn, Indiana showroom. Shipping assistance is available for out of state buyers."
 featured_image: ''
 structured_image1: ''
 structured_image2: ''
@@ -20,19 +20,19 @@ structured_image3: ''
 <section id="inventory" class="py4">
 	<div class="mxn2 flex    flex-wrap  ">
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/1999-harley-davidson-flstf-vin-1HD1BML16XY052799" class="text-decoration-none">1999 HD FLSTF</a></h3>
-			<a href="/inventory/1999-harley-davidson-flstf-vin-1HD1BML16XY052799" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/1999-hd-flstf-01-640x346.jpg" width="640" height="346" alt="1999 Harley Davidson FLSTF Image" title="1999 Harley Davidson FLSTF" layout="responsive">
-			</amp-img></a><br><a href="/inventory/1999-harley-davidson-flstf-vin-1HD1BML16XY052799" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/1999-harley-davidson-flstf-vin-1hd1bml16xy052799" class="text-decoration-none">1999 HD FLSTF</a></h3>
+			<a href="/inventory/1999-harley-davidson-flstf-vin-1hd1bml16xy052799" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/1999-hd-flstf-01-640x346.jpg" width="640" height="346" alt="1999 Harley Davidson FLSTF Image" title="1999 Harley Davidson FLSTF" layout="responsive">
+			</amp-img></a><br><a href="/inventory/1999-harley-davidson-flstf-vin-1hd1bml16xy052799" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2012-suzuki-c50t-vin-JS1VS55A1C2100190" class="text-decoration-none">2012 Suzuki C50T</a></h3>
-			<a href="/inventory/2012-suzuki-c50t-vin-JS1VS55A1C2100190" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2012-suzuki-c50t-vin-JS1VS55A1C2100190-thumb.jpg" width="640" height="346" alt="2012 Suzuki Boulevard Image" title="2012 Suzuki Boulevard" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2012-suzuki-c50t-vin-JS1VS55A1C2100190" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Suzuki</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2012-suzuki-c50t-vin-js1vs55a1c2100190" class="text-decoration-none">2012 Suzuki C50T</a></h3>
+			<a href="/inventory/2012-suzuki-c50t-vin-js1vs55a1c2100190" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2012-suzuki-c50t-vin-JS1VS55A1C2100190-thumb.jpg" width="640" height="346" alt="2012 Suzuki Boulevard Image" title="2012 Suzuki Boulevard" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2012-suzuki-c50t-vin-js1vs55a1c2100190" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Suzuki</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2017-harley-davidson-flhtk-vin-1HD1KED1XHB641377" class="text-decoration-none">2017 HD FLHTK</a></h3>
-			<a href="/inventory/2017-harley-davidson-flhtk-vin-1HD1KED1XHB641377" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2017-harley-davidson-flhtk-vin-1HD1KED1XHB641377-thumb.jpg" width="640" height="346" alt="2017 Harley Davidson FLSTF Image" title="2017 Harley Davidson FLSTF" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2017-harley-davidson-flhtk-vin-1HD1KED1XHB641377" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377" class="text-decoration-none">2017 HD FLHTK</a></h3>
+			<a href="/inventory/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2017-harley-davidson-flhtk-vin-1HD1KED1XHB641377-thumb.jpg" width="640" height="346" alt="2017 Harley Davidson FLSTF Image" title="2017 Harley Davidson FLSTF" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
 			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2008-harley-davidson-flht-vin-1HD1FV4148Y675655" class="text-decoration-none"> 2008 HD FLHT</a></h3>
