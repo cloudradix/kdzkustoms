@@ -35,54 +35,54 @@ structured_image3: ''
 			</amp-img></a><br><a href="/inventory/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2008-harley-davidson-flht-vin-1HD1FV4148Y675655" class="text-decoration-none"> 2008 HD FLHT</a></h3>
-			<a href="/inventory/2008-harley-davidson-flht-vin-1HD1FV4148Y675655" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2008-harley-davidson-flht-vin-1HD1FV4148Y675655-thumb.jpg" width="640" height="346" alt="2008 Harley Davidson FLHT Image" title="2008 Harley Davidson FLHT" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2008-harley-davidson-flht-vin-1HD1FV4148Y675655" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2008-harley-davidson-flht-vin-1hd1fv4148y675655" class="text-decoration-none"> 2008 HD FLHT</a></h3>
+			<a href="/inventory/2008-harley-davidson-flht-vin-1hd1fv4148y675655" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2008-harley-davidson-flht-vin-1HD1FV4148Y675655-thumb.jpg" width="640" height="346" alt="2008 Harley Davidson FLHT Image" title="2008 Harley Davidson FLHT" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2008-harley-davidson-flht-vin-1hd1fv4148y675655" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-harley-davidson-flht-vin-1HD1FV4117Y673196" class="text-decoration-none"> 2007 HD FLHT</a></h3>
-			<a href="/inventory/2007-harley-davidson-flht-vin-1HD1FV4117Y673196" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-harley-davidson-flht-vin-1HD1FV4117Y673196-thumb.jpg" width="640" height="346" alt="2007 Harley Davidson FLHT Image" title="2007 Harley Davidson FLHT" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2007-harley-davidson-flht-vin-1HD1FV4117Y673196" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-harley-davidson-flht-vin-1hd1fv4117y673196" class="text-decoration-none"> 2007 HD FLHT</a></h3>
+			<a href="/inventory/2007-harley-davidson-flht-vin-1hd1fv4117y673196" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-harley-davidson-flht-vin-1HD1FV4117Y673196-thumb.jpg" width="640" height="346" alt="2007 Harley Davidson FLHT Image" title="2007 Harley Davidson FLHT" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2007-harley-davidson-flht-vin-1hd1fv4117y673196" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2015-harley-davidson-flhtk-vin-1HD1KEL15FB602226" class="text-decoration-none"> 2015 HD FLHTK</a></h3>
-			<a href="/inventory/2015-harley-davidson-flhtk-vin-1HD1KEL15FB602226" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2015-harley-davidson-flhtk-vin-1HD1KEL15FB602226-thumb.jpg" width="640" height="346" alt="2015 Harley Davidson FLHTK Image" title="2015 Harley Davidson FLHTK" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2015-harley-davidson-flhtk-vin-1HD1KEL15FB602226" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2015-harley-davidson-flhtk-vin-1hd1kel15fb602226" class="text-decoration-none"> 2015 HD FLHTK</a></h3>
+			<a href="/inventory/2015-harley-davidson-flhtk-vin-1hd1kel15fb602226" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2015-harley-davidson-flhtk-vin-1HD1KEL15FB602226-thumb.jpg" width="640" height="346" alt="2015 Harley Davidson FLHTK Image" title="2015 Harley Davidson FLHTK" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2015-harley-davidson-flhtk-vin-1hd1kel15fb602226" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2014-harley-davidson-fls-vin-1HD1JRV14EB036081" class="text-decoration-none">  2014 HD FLS</a></h3>
-			<a href="/inventory/2014-harley-davidson-fls-vin-1HD1JRV14EB036081" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2014-harley-davidson-fls-vin-1HD1JRV14EB036081-thumb.jpg" width="640" height="346" alt="2014 Harley Davidson FLS Image" title="2014 Harley Davidson FLS" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2014-harley-davidson-fls-vin-1HD1JRV14EB036081" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2014-harley-davidson-fls-vin-1hd1jrv14eb036081" class="text-decoration-none">  2014 HD FLS</a></h3>
+			<a href="/inventory/2014-harley-davidson-fls-vin-1hd1jrv14eb036081" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2014-harley-davidson-fls-vin-1HD1JRV14EB036081-thumb.jpg" width="640" height="346" alt="2014 Harley Davidson FLS Image" title="2014 Harley Davidson FLS" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2014-harley-davidson-fls-vin-1hd1jrv14eb036081" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-honda-vtx1300s-vin-1HFSC52067A407969" class="text-decoration-none">  2007 Honda VTX1300 S</a></h3>
-			<a href="/inventory/2007-honda-vtx1300s-vin-1HFSC52067A407969" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-honda-vtx1300s-vin-1HFSC52067A407969-thumb.jpg" width="640" height="346" alt="2007 Honda VTX1300 S Image" title="2007 Honda VTX1300 S" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2007-honda-vtx1300s-vin-1HFSC52067A407969" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Honda</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-honda-vtx1300s-vin-1hfsc52067a407969" class="text-decoration-none">  2007 Honda VTX1300 S</a></h3>
+			<a href="/inventory/2007-honda-vtx1300s-vin-1hfsc52067a407969" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-honda-vtx1300s-vin-1HFSC52067A407969-thumb.jpg" width="640" height="346" alt="2007 Honda VTX1300 S Image" title="2007 Honda VTX1300 S" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2007-honda-vtx1300s-vin-1hfsc52067a407969" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Honda</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2016-indian-scout-vin-56KMSB114G3116562" class="text-decoration-none">   2016 Indian Scout</a></h3>
-			<a href="/inventory/2016-indian-scout-vin-56KMSB114G3116562" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2016-indian-scout-vin-56KMSB114G3116562-thumb.jpg" width="640" height="346" alt="2016 Indian Scout Image" title="2016 Indian Scout" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2016-indian-scout-vin-56KMSB114G3116562" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Indian</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2016-indian-scout-vin-56kmsb114g3116562" class="text-decoration-none">   2016 Indian Scout</a></h3>
+			<a href="/inventory/2016-indian-scout-vin-56kmsb114g3116562" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2016-indian-scout-vin-56KMSB114G3116562-thumb.jpg" width="640" height="346" alt="2016 Indian Scout Image" title="2016 Indian Scout" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2016-indian-scout-vin-56kmsb114g3116562" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Indian</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2010-harley-davidson-flht-vin-1HD1FC415AB664449" class="text-decoration-none"> 2010 HD FLHT</a></h3>
-			<a href="/inventory/2010-harley-davidson-flht-vin-1HD1FC415AB664449" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/1999-hd-flstf-01-640x346.jpg" width="640" height="346" alt="2010 Harley Davidson FLHT Image" title="2010 Harley Davidson FLHT" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2010-harley-davidson-flht-vin-1HD1FC415AB664449" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="text-decoration-none"> 2010 HD FLHT</a></h3>
+			<a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/1999-hd-flstf-01-640x346.jpg" width="640" height="346" alt="2010 Harley Davidson FLHT Image" title="2010 Harley Davidson FLHT" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452" class="text-decoration-none"> 2017 HD FLHX</a></h3>
-			<a href="/inventory/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452-thumb.jpg" width="640" height="346" alt="2017 Harley Davidson FLHX Image" title="2017 Harley Davidson FLHX" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2017-harley-davidson-flhx-vin-1hd1kbc1xhb661452" class="text-decoration-none"> 2017 HD FLHX</a></h3>
+			<a href="/inventory/2017-harley-davidson-flhx-vin-1hd1kbc1xhb661452" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452-thumb.jpg" width="640" height="346" alt="2017 Harley Davidson FLHX Image" title="2017 Harley Davidson FLHX" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2017-harley-davidson-flhx-vin-1hd1kbc1xhb661452" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-harley-davidson-flstf-vin-1HD1BX5137Y098380" class="text-decoration-none"> 2007 HD FLSTF</a></h3>
-			<a href="/inventory/2007-harley-davidson-flstf-vin-1HD1BX5137Y098380" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-harley-davidson-flstf-vin-1HD1BX5137Y098380-thumb.jpg" width="640" height="346" alt="2007 Harley Davidson FLSTF Image" title="2008 Harley Davidson FLHT" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2007-harley-davidson-flstf-vin-1HD1BX5137Y098380" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2007-harley-davidson-flstf-vin-1hd1bx5137y098380" class="text-decoration-none"> 2007 HD FLSTF</a></h3>
+			<a href="/inventory/2007-harley-davidson-flstf-vin-1hd1bx5137y098380" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2007-harley-davidson-flstf-vin-1HD1BX5137Y098380-thumb.jpg" width="640" height="346" alt="2007 Harley Davidson FLSTF Image" title="2008 Harley Davidson FLHT" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2007-harley-davidson-flstf-vin-1hd1bx5137y098380" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
-			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422" class="text-decoration-none"> 2009 HD FLSTC</a></h3>
-			<a href="/inventory/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422-thumb.jpg" width="640" height="346" alt="2009 Harley Davidson FLSTC Image" title="2009 Harley Davidson FLSTC" layout="responsive">
-			</amp-img></a><br><a href="/inventory/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
+			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2009-harley-davidson-flstc-vin-1hd1bw51x9y028422" class="text-decoration-none"> 2009 HD FLSTC</a></h3>
+			<a href="/inventory/2009-harley-davidson-flstc-vin-1hd1bw51x9y028422" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2009-harley-davidson-flstc-vin-1HD1BW51X9Y028422-thumb.jpg" width="640" height="346" alt="2009 Harley Davidson FLSTC Image" title="2009 Harley Davidson FLSTC" layout="responsive">
+			</amp-img></a><br><a href="/inventory/2009-harley-davidson-flstc-vin-1hd1bw51x9y028422" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
 		</div>
 	</div>
 </section>
