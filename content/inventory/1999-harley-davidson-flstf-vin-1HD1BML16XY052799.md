@@ -1,7 +1,7 @@
 ---
 title: "1999 Harley Davidson"
 date: 2019-03-23T11:32:28-04:00
-draft: true
+draft: false
 Description: "1999 Harley Davidson Fatboy for sale by KDZ Motorcycle Sales & Service. Great Color scheme,  ground pounder pipes, EVO, classic American Harley Davidson look."
 featured_image: '/img/1999-harley-davidson-flstf-vin-1HD1BML16XY052799-01.jpg'
 featured_image_width: '1080'

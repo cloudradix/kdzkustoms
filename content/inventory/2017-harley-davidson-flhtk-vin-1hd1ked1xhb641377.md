@@ -1,14 +1,14 @@
 ---
 title: "2017 Harley Davidson FLHTK"
 date: 2019-03-23T11:56:54-04:00
-draft: true
+draft: false
 Description: "2017 Harley Davidson FLHTK for sale by KDZ Motorcycle Sales & Service. This awesome Limited Edition motorcycle is immediately road ready. Includes all the available options. Priced $3,000 below book value!"
-featured_image: ''
-featured_image_width: ''
-featured_image_height: ''
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+featured_image: '/img/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377-01.jpg'
+featured_image_width: '1080'
+featured_image_height: '810'
+structured_image1: '/img/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377-02.jpg'
+structured_image2: '/img/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377-03.jpg'
+structured_image3: '/img/2017-harley-davidson-flhtk-vin-1hd1ked1xhb641377-04.jpg'
 structured_image4: ''
 
 year: '2017'
