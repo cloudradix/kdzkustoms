@@ -64,11 +64,11 @@ structured_image3: ''
 			<a href="/inventory/2016-indian-scout-vin-56kmsb114g3116562" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2016-indian-scout-vin-56KMSB114G3116562-thumb.jpg" width="640" height="346" alt="2016 Indian Scout Image" title="2016 Indian Scout" layout="responsive">
 			</amp-img></a><br><a href="/inventory/2016-indian-scout-vin-56kmsb114g3116562" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Indian</a></p>
 		</div>
-		<div class="px2 col-12 sm-col-6 md-col-4  ">
+		<!-- <div class="px2 col-12 sm-col-6 md-col-4  ">
 			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="text-decoration-none"> 2010 HD FLHT</a></h3>
 			<a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/1999-hd-flstf-01-640x346.jpg" width="640" height="346" alt="2010 Harley Davidson FLHT Image" title="2010 Harley Davidson FLHT" layout="responsive">
 			</amp-img></a><br><a href="/inventory/2010-harley-davidson-flht-vin-1hd1fc415ab664449" class="ampstart-btn caps inline-block mb2 pt1 pb1 ">View Harley</a></p>
-		</div>
+		</div> -->
 		<div class="px2 col-12 sm-col-6 md-col-4  ">
 			<h3 class="h4 col-10 mx4 pb3 pt3"><a href="/inventory/2017-harley-davidson-flhx-vin-1hd1kbc1xhb661452" class="text-decoration-none"> 2017 HD FLHX</a></h3>
 			<a href="/inventory/2017-harley-davidson-flhx-vin-1hd1kbc1xhb661452" class="col-10 mx3 pb1 pt1"><amp-img class="" src="/2017-harley-davidson-flhx-vin-1HD1KBC1XHB661452-thumb.jpg" width="640" height="346" alt="2017 Harley Davidson FLHX Image" title="2017 Harley Davidson FLHX" layout="responsive">

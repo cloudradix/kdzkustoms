@@ -1,5 +1,5 @@
 ---
-title: "2007 Harley Davidson Flht Vin 1hd1fv4117y673196"
+title: "2007 Harley Davidson"
 date: 2019-03-23T12:21:20-04:00
 draft: false
 Description: "2007 Harley Davidson FLHT by KDZ Motorcycle Sales & Services flamed paint, tinted windshield, 6spd, 10in bars for comfort, painted inner fairing, road ready."

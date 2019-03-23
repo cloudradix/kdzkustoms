@@ -1,5 +1,5 @@
 ---
-title: "2017 Harley Davidson FLHTK"
+title: "2017 Harley Davidson"
 date: 2019-03-23T11:56:54-04:00
 draft: false
 Description: "2017 Harley Davidson FLHTK for sale by KDZ Motorcycle Sales & Service. This awesome Limited Edition motorcycle is immediately road ready. Includes all the available options. Priced $3,000 below book value!"

@@ -1,5 +1,5 @@
 ---
-title: "2015 Harley Davidson Flhtk Vin 1hd1kel15fb602226"
+title: "2015 Harley Davidson"
 date: 2019-03-23T12:22:45-04:00
 draft: false
 Description: "Harley Touring Model! great running and riding motorcycle,  Touch screen navigation, Road Ready."

@@ -1,5 +1,5 @@
 ---
-title: "2008 Harley Davidson Flht Vin 1hd1fv4148y675655"
+title: "2008 Harley Davidson"
 date: 2019-03-23T12:19:08-04:00
 draft: false
 Description: "2008 Harley Davidson FLHT for sale by KDZ Motorcycle Sales & Service. A beautiful Electra Glide, custom seat made for comfort with quick detach back rest, slim windshield, slip on pipes and it's road ready. OPTIONS INCLUDE: passenger back rest, slim windshield,  6spd,  luggage rack, custom memory foam seat."
