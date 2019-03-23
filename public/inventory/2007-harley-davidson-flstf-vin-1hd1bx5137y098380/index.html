@@ -177,16 +177,12 @@ amp-selector amp-img[option][selected] {
 		<amp-carousel [slide]="selectedSlide" on="slideChange:AMP.setState({selectedSlide:event.index})" type="slides" id="imageSlides" layout="responsive" width="1080" height="720" class="pl4">
 		    <amp-img src="/img/2007-harley-davidson-flstf-vin-1hd1bx5137y098380-01.jpg" layout="fill"></amp-img>
 		    <amp-img src="/img/2007-harley-davidson-flstf-vin-1hd1bx5137y098380-02.jpg" layout="fill"></amp-img>
-		    <amp-img src="" layout="fill"></amp-img>
-		    <amp-img src="" layout="fill"></amp-img>
 		</amp-carousel>
 		<amp-selector [selected]="selectedSlide" on="select:AMP.setState({selectedSlide:event.targetOption})">
 			<amp-carousel layout="fixed-height" height="78" class="mt1 pl4">
 
 			    <amp-img  option=0 selected src="/img/2007-harley-davidson-flstf-vin-1hd1bx5137y098380-01.jpg" layout="fixed" width="108" height="72"></amp-img>
 			    <amp-img option=1 src="/img/2007-harley-davidson-flstf-vin-1hd1bx5137y098380-02.jpg" layout="fixed" width="108" height="72"></amp-img>
-			    <amp-img option=2 src="" layout="fixed" width="108" height="72"></amp-img>
-			    <amp-img option=3 src="" layout="fixed" width="108" height="72"></amp-img>
 			</amp-carousel>
 		</amp-selector><br>
 		</p>
