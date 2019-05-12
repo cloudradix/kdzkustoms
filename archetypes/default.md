@@ -9,7 +9,6 @@ featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
-structured_image4: ''
 
 year: ''
 make: ''
