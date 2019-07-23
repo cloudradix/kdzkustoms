@@ -2,6 +2,7 @@ baseURL = "https://kdzmotorcycles.com/"
 languageCode = "en-us"
 title = "KDZ Motorcycle Sales and Service | Auburn Indiana"
 theme = "ampradix"
+GoogleAnalytics = "144405231-1"
 
 [sitemap]
   changefreq = "monthly"

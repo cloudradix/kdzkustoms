@@ -1,7 +1,7 @@
 <!doctype html>
 <html ⚡="" lang="en"><head>
   <meta charset="utf-8">
-  <title>Motorcycle Service by KDZ Motorcycle Sales &amp; Service</title>
+  <title>Motorcycle Service by KDZ Motorcycle Sales &amp; Service | KDZ Motorcycle Sales & Service</title>
   <link rel="canonical" href="https://kdzmotorcycles.com/service/">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <meta name="description" content="KDZ Motorcycle Service department can provide routine maintenance and repairs to keep your cycle on the road." />
@@ -46,6 +46,9 @@
 <script custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" async></script>
 <script custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" async></script>
 <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+
+<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async=""></script>
+
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet">
 
@@ -270,6 +273,94 @@ amp-selector amp-img[option][selected] {
       </li>
     </ul>
   </nav>
-</footer></body>
+</footer></body><amp-analytics type="googleanalytics" id="analytics-ga">
+
+ <script type="application/json">
+
+ {
+
+ "vars": {
+
+ "account": "144405231-1"
+
+ },
+
+ "triggers": {
+
+ "trackPageview": {
+
+ "on": "visible",
+
+ "request": "pageview"
+
+ },
+
+ "previews": {
+
+ "on": "click",
+
+ "selector": "[data-vars-preview]",
+
+ "request": "event",
+
+ "vars": {
+
+ "eventCategory": "preview",
+
+ "eventAction": "click",
+
+ "eventLabel": "${preview}"
+
+ }
+
+ },
+
+ "downloads": {
+
+ "on": "click",
+
+ "selector": "[data-vars-download]",
+
+ "request": "event",
+
+ "vars": {
+
+ "eventCategory": "download",
+
+ "eventAction": "click",
+
+ "eventLabel": "${download}"
+
+ }
+
+ },
+
+ "outboundLinks": {
+
+ "on": "click",
+
+ "selector": "[data-vars-outbound-link]",
+
+ "request": "event",
+
+ "vars": {
+
+ "eventCategory": "outbound",
+
+ "eventAction": "click",
+
+ "eventLabel": "${outboundLink}"
+
+ }
+
+ }
+
+ }
+
+ }
+
+ </script>
+
+</amp-analytics>
 </html>
 
