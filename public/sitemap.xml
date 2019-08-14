@@ -3,16 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kdzmotorcycles.com/inventory/2007-yamaha-fjr-jyarp15e67a003675/</loc>
-    <lastmod>2019-07-23T13:44:37-04:00</lastmod>
+    <loc>https://kdzmotorcycles.com/inventory/2012-yamaha-can-am-roadster-rt-ask-dealer/</loc>
+    <lastmod>2019-07-27T20:09:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kdzmotorcycles.com/</loc>
-    <lastmod>2019-07-23T13:44:37-04:00</lastmod>
+    <lastmod>2019-07-27T20:09:23-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdzmotorcycles.com/inventory/2007-yamaha-fjr-jyarp15e67a003675/</loc>
+    <lastmod>2019-07-23T13:44:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -44,29 +51,8 @@
   </url>
   
   <url>
-    <loc>https://kdzmotorcycles.com/inventory/2009-harley-davidson-fltr-1hd1fs4189y647857/</loc>
-    <lastmod>2019-06-26T13:32:56-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kdzmotorcycles.com/inventory/2014-harley-davidson-flhr-1hd1fbm14eb601553/</loc>
-    <lastmod>2019-06-26T13:30:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kdzmotorcycles.com/inventory/2013-harley-davidson-vrscdx-1hd1hhh16dc803682/</loc>
     <lastmod>2019-06-16T01:14:36-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kdzmotorcycles.com/inventory/2006-honda-vtx-1300c-1hfsc55066a202466/</loc>
-    <lastmod>2019-06-11T17:07:24-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
