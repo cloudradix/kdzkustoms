@@ -2,7 +2,6 @@
 Description = "2018 Roxor LE side by side, 4x4, Winch, windshield, Turn signals, 2.5 turbo diesel engine Ready for winter adventures!"
 VIN = "NA"
 date = 2019-11-02T00:24:01Z
-draft = true
 featured_image = "https://firebasestorage.googleapis.com/v0/b/appsradix.appspot.com/o/images%2F20191024_150556.jpg?alt=media&token=7df7f212-79c4-4af2-8c39-9b7effee313b"
 featured_image_height = "1960"
 featured_image_width = "4032"
